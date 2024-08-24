@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+html, body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+body {
+  justify-content: center;
+  justify-items: center;
+  display: flex;
+}
+
+.profile-card {
+  font-family: "Raleway", sans-serif;
+  box-shadow: 0 0 3vh rgba(0, 0, 0, 0.5);
+  border-radius: 5vh;
+  width: 25rem;
+  height: 35rem;
+  background-color: white;
+  margin-top: 10rem;
+  text-align: center;
+}
+.profile-card .img {
+  background-image: url(ta9ZkC.webp);
+  height: 8rem;
+  color: violet;
+  border-radius: 5vh 5vh 0 0;
+  text-shadow: 0 0 0.5wvh rgba(251, 0, 255, 0.6);
+  background-position: center;
+}
+.profile-card h1 {
+  padding-top: 0vh;
+  margin-top: 0vh;
+  text-align: center;
+  padding-top: 3vh;
+}
+.profile-card p {
+  font-size: 2vh;
+  font-weight: 400;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.pfp {
+  margin-top: 1rem;
+}
+.pfp img {
+  border-radius: 50%;
+  width: 5rem;
+  box-shadow: 0 0 1.5vh #6944ff;
+}
+
+.socials {
+  font-size: 1.2rem;
+}
+.socials i:hover {
+  animation: tilt-shaking 0.3s infinite;
+}
+.socials i {
+  margin: 1vh;
+  background-color: #6944ff;
+  padding: 0.6rem 0.6rem;
+  border-radius: 50%;
+  box-shadow: 0 0 0.8vh black;
+  color: white;
+}
+
+#twitter {
+  background-color: #131418;
+}
+
+#facebook {
+  background-color: #1877F2;
+}
+
+#linkedin {
+  background-color: #0A66C2;
+}
+
+#instagram {
+  background: linear-gradient(20deg, orange, magenta);
+}
+
+#codepen {
+  background-color: whitesmoke;
+  color: black;
+}
+
+#github {
+  background-color: #2b3137;
+}
+
+#discord {
+  background-color: #5539cc;
+}
+
+button {
+  border: none;
+  background-color: violet;
+  color: white;
+  box-shadow: 0 0 0.5vh rgba(0, 0, 0, 0.7);
+  border-radius: 5vh;
+  padding: 1vh;
+  margin: 2vh;
+}
+
+button:hover {
+  animation: tilt-shaking 0.3s infinite;
+  cursor: pointer;
+}
+
+i:hover {
+  cursor: pointer;
+}
+
+@keyframes tilt-shaking {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(5deg);
+  }
+  50% {
+    transform: rotate(0eg);
+  }
+  75% {
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}/*# sourceMappingURL=styles.css.map */
