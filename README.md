@@ -17,4 +17,4 @@ Profile card project. free to use, but u have to give me some credit
 <p>Do the same as with the other ones but on line 22</p>
 
 <hr>
-<img src="https://replit.com/@pirkisek1/SneakySugaryModularity#tumblr_rxwtg41Pco1zh3rmr.mp4">
+<video src="https://replit.com/@pirkisek1/SneakySugaryModularity#tumblr_rxwtg41Pco1zh3rmr.mp4"></video>
