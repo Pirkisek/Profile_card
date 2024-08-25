@@ -18,4 +18,6 @@ Profile card project. free to use, but u have to give me some credit
 
 <hr>
 
-<img sr='image.png'>
+<h1>screenshot</h1>
+
+<img src='image.png'>
