@@ -21,18 +21,3 @@ Profile card project. free to use, but u have to give me some credit
 <h1>screenshot</h1>
 
 <img src='image.png'>
-
-<a href="#" class="buttonClass" style="
-  font-size:15px;
-  font-family:Arial;
-  width:200px;
-  height:37px;
-  border-width:1px;
-  color:#fff;
-  border-color:rgba(144, 19, 254, 1);
-  border-top-left-radius:17px;
-  border-top-right-radius:17px;
-  border-bottom-left-radius:17px;
-  border-bottom-right-radius:17px;
-  text-shadow:inset 0px 1px 0px #263666;
-  background:linear-gradient(rgba(137, 108, 219, 1), #415989);">Join my discord server</a>
