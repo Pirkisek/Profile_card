@@ -23,7 +23,6 @@ Profile card project. free to use, but u have to give me some credit
 <img src='image.png'>
 
 <a href="#" class="buttonClass" style="
-.buttonClass {
   font-size:15px;
   font-family:Arial;
   width:200px;
@@ -36,8 +35,4 @@ Profile card project. free to use, but u have to give me some credit
   border-bottom-left-radius:17px;
   border-bottom-right-radius:17px;
   text-shadow:inset 0px 1px 0px #263666;
-  background:linear-gradient(rgba(137, 108, 219, 1), #415989);
-}
-.buttonClass:hover {
-  background: linear-gradient(#415989, rgba(137, 108, 219, 1));
-}">Join my discord server</a>
+  background:linear-gradient(rgba(137, 108, 219, 1), #415989);">Join my discord server</a>
