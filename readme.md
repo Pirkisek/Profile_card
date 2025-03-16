@@ -35,6 +35,7 @@ Go to line `25` in `main.js` and replace the link with your paypal link
 ## Screenshots
 
 <img src="screenshot.png">
+
 ## Authors
 
 - [@pirkisek](https://www.github.com/pirkisek)
