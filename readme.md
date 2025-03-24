@@ -1,7 +1,10 @@
 
 # Profile Card
+# preview at https://pirkisek.github.io/profile_card
 
 Profile card project. It is free to use, but you have to give me some credit(so just dont delete the credits part)
+
+
 
 ## How to setup
 
